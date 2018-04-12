@@ -1,0 +1,18 @@
+{
+  "name": "mochatutorial",
+  "version": "1.0.0",
+  "description": "mocha tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "author": "nextzeus",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chai": "^4.1.2",
+    "mongoose": "^5.0.11",
+    "monk": "^6.0.5"
+  },
+  "devDependencies": {}
+}
